@@ -1,0 +1,21 @@
+.container {
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 0 auto 6rem;
+    background-color: #f5f9e9;
+}
+
+.headerContainer {
+    background-color: #c2c1a5;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.header {
+    max-width: 36rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    min-height: 54px;
+}
